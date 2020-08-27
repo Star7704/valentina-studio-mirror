@@ -1,4 +1,4 @@
-# Ubuntu Script
+# Valentina Studio Mirror
 
 This repository is intended as a mirror for the Valentina Studio official repository.
 
