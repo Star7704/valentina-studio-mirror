@@ -20,7 +20,7 @@ TL;DR Some times Valentina Studio download mirror get slower, this repository so
 
 ## Usage
 
-Just download your desired package through clicking on the package and selecting raw.
+Just download your desired package through clicking on the package and clicking in download.
 
 ## Development
 
